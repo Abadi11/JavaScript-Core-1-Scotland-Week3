@@ -13,7 +13,9 @@ console.log(answer1);
 
 
 
-
+function calculateVolume(x, y, z){
+    return x * y * z; // It RETURNS a number
+}
 
 
 
