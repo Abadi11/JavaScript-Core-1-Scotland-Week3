@@ -19,7 +19,7 @@ let newArray = [];
 
 // You should be able to solve the exercise with one line of code
 
-
+newArray = namesList.filter(isTrainee);
 
 console.log("Answer should be Aria, Brian, Candice, Sunesh");
 console.log(newArray);

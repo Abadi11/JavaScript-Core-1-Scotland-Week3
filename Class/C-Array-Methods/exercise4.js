@@ -16,7 +16,7 @@ let doubledNumbers = [];
 
 // You should be able to solve the exercise with one line of code
 
-
+doubledNumbers = numbersList.map(doubleValue)
 
 
 
